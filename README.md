@@ -4,5 +4,5 @@ A web app has smart budget planning with friends, family or friends.
 
 Features 
 - budget setter
-- along with 
+- Ni. of person
 - comfort 
