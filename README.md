@@ -1,2 +1,2 @@
 # CareerOS
-A a unique platform where you can test yourself for company interviews.
+A smart platform helps you to plan you your bestest trip!
