@@ -9,6 +9,20 @@
 - **🤖 AI Mock Interview Simulator:** Generates hard, highly specific 3-question assessments based on your target role, instantly graded with detailed technical explanations from the Google Gemini AI.
 - **🎨 Premium UX/UI:** Deep dark mode by default (`zinc-950`), butter-smooth Framer Motion animations, glowing micro-interactions, and a sleek layout.
 
+## 🗺️ Roadmap & Future Plans
+The vision for CareerOS extends far beyond the current MVP. The following features are slated for upcoming development phases:
+
+* 🧠 **The Resume AI Engine:** * Upload your resume (PDF) via Firebase Storage.
+  * Gemini AI will analyze the text, score it out of 100 based on your target company, and explicitly highlight missing keywords and skills.
+* 💬 **The AI Career Mentor:**
+  * A persistent, context-aware chatbot acting as an elite tech recruiter.
+  * Ask for insider company info, generate custom interview scripts, or seek negotiation advice.
+* 📊 **Advanced Analytics Dashboard:**
+  * Integration of Recharts/Chart.js to visualize skill progression over time.
+  * Funnel charts showing the conversion rate from "Application" to "Offer".
+* 📝 **Expanded Interview Simulator:**
+  * Transition from MCQs to long-form written technical answers, dynamically graded by AI for accuracy and code efficiency.
+
 ## 🛠 Tech Stack
 
 - **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
