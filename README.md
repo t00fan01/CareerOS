@@ -1,6 +1,6 @@
 # 🚀 CareerOS
 
-**CareerOS** is an AI-driven, next-generation career roadmap and application tracker specifically built for IT and Tech students. With a stunning glassmorphic interface and a highly responsive design, CareerOS helps you effortlessly track your job applications, map your skills, and ace your interviews using an integrated Mock Interview Simulator.
+**CareerOS** is an AI-driven, next -generation career roadmap and application tracker specifically built for IT and Tech students. With a stunning glassmorphic interface and a highly responsive design, CareerOS helps you effortlessly track your job applications, map your skills, and ace your interviews using an integrated Mock Interview Simulator.
 
 ## ✨ Features
 
