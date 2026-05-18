@@ -65,4 +65,4 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser to see the 
 Contributions are welcome! Feel free to fork this project, submit pull requests, or open issues.
 
 ---
-*Built with for ambitious developers to land their dream roles.*
+*Built with heart for ambitious developers to land their dream roles.*
