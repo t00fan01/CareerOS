@@ -6,7 +6,7 @@
 
 - **📊 Job Application Tracker:** Visually manage your ongoing applications with real-time Firestore syncing. 
 - **⚡ Dynamic Skill Progress:** Add and evaluate your technical skills seamlessly.
-- **🤖 AI Mock Interview Simulator:** Generates hard, highly specific 3-question assessments based on your target role, instantly graded with detailed technical explanations from the Google Gemini AI.
+- **🤖 AI Mock Interview Simulator:** Generates hard, highly specific questions & assessments based on your target role, instantly graded with detailed technical explanations from the Google Gemini AI.
 - **🎨 Premium UX/UI:** Deep dark mode by default (`zinc-950`), butter-smooth Framer Motion animations, glowing micro-interactions, and a sleek layout.
 
 ## 🗺️ Roadmap & Future Plans
