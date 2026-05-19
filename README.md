@@ -13,7 +13,7 @@
 The vision for CareerOS extends far beyond the current MVP. The following features are slated for upcoming development phases:
 
 * 🧠 **The Resume AI Engine:** * Upload your resume (PDF) via Firebase Storage.
-  * Gemini AI will analyze the text, score it out of 100 based on your target company, and explicitly highlight missing keywords and skills.
+  * AI will analyze the text, score it out of 100 based on your target company, and explicitly highlight missing keywords and skills.
 * 💬 **The AI Career Mentor:**
   * A persistent, context-aware chatbot acting as an elite tech recruiter.
   * Ask for insider company info, generate custom interview scripts, or seek negotiation advice.
